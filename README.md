@@ -1,7 +1,7 @@
 # ZAZZ API MANAGEMENT
 Tools Termux buat manage API Key ZAZZ - khusus buat yang udah beli paket.
 
-> No Day Without Code | Made in Pati, 00.20 WIB baterai 4%
+> No Day Without Code | Made in Indonesia 
 
 Features:
 - 01 Request API (Generate pake API Key)
